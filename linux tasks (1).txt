@@ -1,0 +1,13 @@
+tasks:
+
+
+1. command to get cpu info using cat command
+2. understand the linux file directory system
+3. alternate command to get RAM information
+4. command to get Storage Information
+5. command to see running processors on linux system
+6. command to create a folder inside a folder
+7. command to append a data to a file which are present in folder1
+8. command to copy the data from one file to another file
+9. command to rename a file
+10. diff between > & >> in cat command
